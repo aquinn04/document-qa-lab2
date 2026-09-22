@@ -4,3 +4,4 @@ tiktoken
 chromadb
 pysqlite3-binary
 pyPDF2
+requests
